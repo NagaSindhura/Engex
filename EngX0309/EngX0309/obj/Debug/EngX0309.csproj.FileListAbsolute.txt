@@ -1,0 +1,6 @@
+D:\dotnetmetoring-batch2 tasks\M2\EngX0309\EngX0309\bin\Debug\EngX0309.exe.config
+D:\dotnetmetoring-batch2 tasks\M2\EngX0309\EngX0309\bin\Debug\EngX0309.exe
+D:\dotnetmetoring-batch2 tasks\M2\EngX0309\EngX0309\bin\Debug\EngX0309.pdb
+D:\dotnetmetoring-batch2 tasks\M2\EngX0309\EngX0309\obj\Debug\EngX0309.csprojResolveAssemblyReference.cache
+D:\dotnetmetoring-batch2 tasks\M2\EngX0309\EngX0309\obj\Debug\EngX0309.exe
+D:\dotnetmetoring-batch2 tasks\M2\EngX0309\EngX0309\obj\Debug\EngX0309.pdb

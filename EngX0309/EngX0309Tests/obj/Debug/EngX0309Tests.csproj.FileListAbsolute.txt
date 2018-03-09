@@ -1,0 +1,8 @@
+D:\dotnetmetoring-batch2 tasks\M2\EngX0309\EngX0309Tests\bin\Debug\EngX0309Tests.dll
+D:\dotnetmetoring-batch2 tasks\M2\EngX0309\EngX0309Tests\bin\Debug\EngX0309Tests.pdb
+D:\dotnetmetoring-batch2 tasks\M2\EngX0309\EngX0309Tests\bin\Debug\EngX0309.exe
+D:\dotnetmetoring-batch2 tasks\M2\EngX0309\EngX0309Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\dotnetmetoring-batch2 tasks\M2\EngX0309\EngX0309Tests\bin\Debug\EngX0309.pdb
+D:\dotnetmetoring-batch2 tasks\M2\EngX0309\EngX0309Tests\obj\Debug\EngX0309Tests.csprojResolveAssemblyReference.cache
+D:\dotnetmetoring-batch2 tasks\M2\EngX0309\EngX0309Tests\obj\Debug\EngX0309Tests.dll
+D:\dotnetmetoring-batch2 tasks\M2\EngX0309\EngX0309Tests\obj\Debug\EngX0309Tests.pdb
